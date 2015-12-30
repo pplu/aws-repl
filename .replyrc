@@ -1,0 +1,17 @@
+[FancyPrompt]
+[LoadClass]
+[ReadLine]
+history_file = '.history'
+history_length = 1000
+[Autocomplete::Commands]
+[Autocomplete::Functions]
+[Autocomplete::Keywords]
+[Autocomplete::Methods]
+[Autocomplete::Packages]
+[Colors]
+error   = bright red
+warning = bright yellow
+result  = bright green
+[DataPrinter]
+[ResultCache]
+variable = l
